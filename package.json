@@ -1,0 +1,25 @@
+{
+  "name": "estacaodasleis",
+  "version": "1.0.0",
+  "description": "Site de conteúdo jurídico",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrStudDev/estacaodasleis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrStudDev/estacaodasleis/issues"
+  },
+  "homepage": "https://github.com/mrStudDev/estacaodasleis#readme",
+  "dependencies": {
+    "next": "^13.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
